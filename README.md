@@ -116,6 +116,16 @@ Type: `String`
 
 Alternate root path for assets. New concated js and css files will be written to the path specified in the build block, relative to this path. Currently asset files are also returned in the stream.
 
+#### startReg
+Type: `Reg`
+
+(新增属性),用来匹配开始标志
+
+#### endReg
+Type: `Reg`
+
+(新增属性),用来匹配结束标志
+
 #### jsReg
 Type: `Reg`
 
