@@ -1,5 +1,5 @@
 {
-	"name": "gulp-usemin",
+	"name": "gulp-usemin-extend",
 	"version": "0.3.23",
 	"description": "Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views).",
 	"main": "index.js",
@@ -26,7 +26,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/zont/gulp-usemin.git"
+		"url": "https://github.com/chen844033231/gulp-usemin"
 	},
 	"keywords": [
 		"gulpplugin",
